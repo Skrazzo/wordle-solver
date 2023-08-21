@@ -1,2 +1,2 @@
-# wordle-solver
-App to help you with finding a word for wordle.
+# Wordle solver in C#
+I wrote this application a long ago. And I have lost my project and the source code, sadly cannot improve it.
